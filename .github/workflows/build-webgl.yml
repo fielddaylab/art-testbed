@@ -6,9 +6,6 @@ name: Art Testbed Build
 on:
    push:
    workflow_dispatch:
-
-env:
-  # Unused
   
 jobs:
   build:
